@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Cloud:** AWS, GCP (basic), Azure (basic)
+- **Cloud:** AWS, GCP (basic)
 - **IaC:** Terraform, Ansible
 - **Containers:** Docker, Kubernetes
 - **CI/CD:** Jenkins, GitHub Actions, UDeploy
@@ -42,5 +42,5 @@
 
 <h3 align="center">Let's Connect 🚀</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin-id]/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/pavan-gajjala/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
 </p>
