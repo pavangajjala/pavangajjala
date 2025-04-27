@@ -1,16 +1,46 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your_user_id" alt="Pavan Gajjala" width="150" style="border-radius:50%"/>
+</p>
 
-<!--
-**pavangajjala/pavangajjala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Pavan Gajjala</h1>
+<h3 align="center">DevOps Engineer | Cloud Enthusiast | Privacy-First Security Tools Builder</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Building **VaultScan – Community Edition**, a privacy-first secret leak detection tool.
+- 🔥 Passionate about **DevOps**, **Cloud Security**, **IaC**, and **Automation**.
+- 💬 Ask me about **AWS**, **Terraform**, **Docker**, **Kubernetes**, **Jenkins**, **Cloud Migrations**.
+- 📚 Expanding into **Multi-Cloud Architectures** and **Privacy-First SaaS Products**.
+- 📫 Reach me at **[your-email@example.com]**
+
+---
+
+### 🛠️ Tech Stack
+- **Cloud:** AWS, GCP (basic), Azure (basic)
+- **IaC:** Terraform, Ansible
+- **Containers:** Docker, Kubernetes
+- **CI/CD:** Jenkins, GitHub Actions, UDeploy
+- **Languages:** Python, Bash, Java
+- **Monitoring:** CloudWatch, New Relic
+
+---
+
+### 📌 Pinned Projects
+- 🔐 VaultScan – Community Edition
+- 📦 Dockerized Applications
+- ☸️ Kubernetes Automation
+- 🔧 DevOps Challenges
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavangajjala&show_icons=true&theme=radical" alt="Pavan's GitHub stats"/>
+</p>
+
+---
+
+<h3 align="center">Let's Connect 🚀</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/[your-linkedin-id]/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+</p>
