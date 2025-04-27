@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_user_id" alt="Pavan Gajjala" width="150" style="border-radius:50%"/>
+  <img src="https://avatars.githubusercontent.com/u/95187017" alt="Pavan Gajjala" width="150" style="border-radius:50%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Pavan Gajjala</h1>
