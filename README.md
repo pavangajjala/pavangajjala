@@ -11,7 +11,7 @@
 - 🔥 Passionate about **DevOps**, **Cloud Security**, **IaC**, and **Automation**.
 - 💬 Ask me about **AWS**, **Terraform**, **Docker**, **Kubernetes**, **Jenkins**, **Cloud Migrations**.
 - 📚 Expanding into **Multi-Cloud Architectures** and **Privacy-First SaaS Products**.
-- 📫 Reach me at **[your-email@example.com]**
+- 📫 Reach me at **pavankumar0177@gmail.com**
 
 ---
 
