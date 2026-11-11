@@ -1,46 +1,33 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/95187017" alt="Pavan Gajjala" width="150" style="border-radius:50%"/>
-</p>
+# Pavan Gajjala
 
-<h1 align="center">Hi 👋, I'm Pavan Gajjala</h1>
-<h3 align="center">DevOps Engineer | Cloud Enthusiast | Privacy-First Security Tools Builder</h3>
+**DevOps Engineer · AWS · Terraform · Kubernetes**
 
----
+DevOps engineer with 5 years of experience building and running cloud infrastructure on AWS. I work mostly on infrastructure as code, container platforms, and delivery pipelines, with a focus on making deployments repeatable and safe.
 
-- 🚀 Building **VaultScan – Community Edition**, a privacy-first secret leak detection tool.
-- 🔥 Passionate about **DevOps**, **Cloud Security**, **IaC**, and **Automation**.
-- 💬 Ask me about **AWS**, **Terraform**, **Docker**, **Kubernetes**, **Jenkins**, **Cloud Migrations**.
-- 📚 Expanding into **Multi-Cloud Architectures** and **Privacy-First SaaS Products**.
-- 📫 Reach me at **pavankumar0177@gmail.com**
+## What I work on
 
----
+- **Cloud infrastructure:** multi-account AWS environments, IAM Identity Center (SSO), networking, ECS and EKS
+- **Infrastructure as code:** reusable Terraform modules, remote state, environment-parameterised deployments
+- **CI/CD:** Jenkins and GitHub Actions pipelines for monorepos and multi-environment releases
+- **Observability:** Datadog and CloudWatch dashboards, monitors, and alerting
 
-### 🛠️ Tech Stack
-- **Cloud:** AWS, GCP (basic)
-- **IaC:** Terraform, Ansible
-- **Containers:** Docker, Kubernetes
-- **CI/CD:** Jenkins, GitHub Actions, UDeploy
-- **Languages:** Python, Bash, Java
-- **Monitoring:** CloudWatch, New Relic
+## Tech stack
 
----
+| Area | Tools |
+| --- | --- |
+| Cloud | AWS |
+| IaC | Terraform |
+| Containers | Docker, Kubernetes, ECS, EKS, Helm |
+| CI/CD | Jenkins, GitHub Actions |
+| Languages | Python, Bash |
+| Monitoring | Datadog, CloudWatch |
 
-### 📌 Pinned Projects
-- 🔐 VaultScan – Community Edition
-- 📦 Dockerized Applications
-- ☸️ Kubernetes Automation
-- 🔧 DevOps Challenges
+## Selected projects
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavangajjala&show_icons=true&theme=radical" alt="Pavan's GitHub stats"/>
-</p>
-
----
-
-<h3 align="center">Let's Connect 🚀</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavan-gajjala/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-</p>
+| Project | Description |
+| --- | --- |
+| [vaultscan-community](https://github.com/vaultscanhq/vaultscan-community) | Change gate for infrastructure: reviews Terraform plans, Kubernetes manifests, CI workflows, secrets and AI-agent commands, with an optional AI reviewer |
+| [aws-landing-zone](https://github.com/pavangajjala/aws-landing-zone) | Multi-account AWS in Terraform: organization and SCPs, IAM Identity Center, generated state backends, account baseline and networking |
+| [eks-gitops-platform](https://github.com/pavangajjala/eks-gitops-platform) | EKS built with Terraform and run by Argo CD, with Kyverno policies and Kustomize overlays |
+| [cicd-pipeline-library](https://github.com/pavangajjala/cicd-pipeline-library) | Reusable GitHub Actions workflows and a Jenkins shared library for build, scan, plan/apply and GitOps promotion |
+| [observability-as-code](https://github.com/pavangajjala/observability-as-code) | Datadog monitors, SLOs with burn-rate alerts and dashboards generated from a service catalog |
